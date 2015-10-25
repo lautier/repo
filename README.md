@@ -9,6 +9,6 @@ After drawing only the mean and standard deviation values, a mean value for each
 
 The dataset includes the following files:
 run_analysis.R - the script performing the analysis
-README.Rmd - a markdown file describing the script and how the files included in the repository are connected 
-Codebook.Rmd - a markdown file containing the description of variables/data in the set
+README.md - a markdown file describing the script and how the files included in the repository are connected 
+Codebook.md - a markdown file containing the description of variables/data in the set
 
